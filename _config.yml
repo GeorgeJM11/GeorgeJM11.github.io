@@ -14,10 +14,11 @@ avatar: https://fcit.usf.edu/matrix/wp-content/uploads/2016/10/ComputerKidDarker
 #
 # Flags below are optional
 #
-<syle>
+<style>
 body {
     background-color:#efeff5 ;
 }
+</style>
 
 # Includes an icon in the footer for each username you enter
 footer-links:
