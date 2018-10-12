@@ -8,7 +8,7 @@ I like I.T.
 
 ### More Information
 
-(I'm only saying this to stop Mr. Kean cooking me for breakfast).
+(I'm only saying this to stop Mr. Keen cooking me for breakfast).
 Jk 
 
 ### Contact me
